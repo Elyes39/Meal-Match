@@ -116,12 +116,6 @@
 
 ![finalprojectdemo2](finalprojectdemo2.gif)
 
-### **Video Demo**
-
-![https://www.youtube.com/watch?v=9B0YYB-2onU](https://www.youtube.com/watch?v=9B0YYB-2onU)
-
-
-[![finalprojectvideo](https://img.youtube.com/vi/9B0YYB-2onU/0.jpg)](https://www.youtube.com/watch?v=9B0YYB-2onU)
 
 ## **Wireframes**
 
